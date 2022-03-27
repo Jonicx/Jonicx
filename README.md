@@ -6,7 +6,7 @@
 
 👨🏾‍💻 I enjoy contributing to Imagination to life Projects and am really enthusiastic about learning new technology.
 
-💪🏾 My areas of expertise include JavaScript frameworks like Node/ExpressJS, ReactJS, SocketIO, also proficient in Google frameworks like Dart/Flutter, Android/Kotlin  along with powerful modern/scalable databases like PostgreSQL, MongoDB, Firebase. 
+💪🏾 My areas of expertise include JavaScript frameworks like Node/ExpressJS, ReactJS, SocketIO, also proficient in Google frameworks like Dart/Flutter, reactnative Android/Kotlin  along with powerful modern/scalable databases like PostgreSQL, MongoDB, Firebase and finally best frontend skills in CSS3, Html, Bootstrap and redux. 
 
 🎬 As far as Graphic Designing, I have been working as a Graphic Designer since 2017, Motion Graphics Designer since 2017, UI & UX designer since 2019 and I have used frameworks like Figma, canva and Adobe workshop.
 
@@ -15,3 +15,5 @@
 💬 Ask me about Problem Solving, Software Engineering and Emerging Technologies
 
 ⚡ My hardworking theory: Divide feature into chunk of tasks and never sleep without finishing daily chunks !
+
+###bagdges

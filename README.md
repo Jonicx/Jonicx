@@ -15,5 +15,3 @@
 💬 Ask me about Problem Solving, Software Engineering and Emerging Technologies
 
 ⚡ My hardworking theory: Divide feature into chunk of tasks and never sleep without finishing daily chunks !
-
-###bagdges
